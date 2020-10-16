@@ -1,3 +1,5 @@
+== Footnotes v4.1.9 ==
+  * Fix the issue of Gem Load Error unknown keyword: instance_writter
 == Footnotes v4.1.8 ==
   * Fix the issue of undefined method using Log4r and Rails 3.2
   * Fix some rails 5 compatibility issues (#140) *
